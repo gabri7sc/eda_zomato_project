@@ -198,7 +198,7 @@ def best_review_countries( df1 ):
 
 st.set_page_config( page_title='Home', page_icon='👽' )
 
-df = pd.read_csv( 'dataset/zomato_treated_13-02-2024.csv' )
+df = pd.read_csv( 'dataset/zomato_treated_15-04-2024.csv' )
 
 # Because of the modeling and filtering take so long I decided to add the CSV filtered
 
