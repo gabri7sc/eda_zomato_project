@@ -153,7 +153,7 @@ def average_dollar_scatter( df1 ):
 
 # Read the Treated CSV
 
-df = pd.read_csv( 'zomato_treated_15-04-2024.csv' )
+df = pd.read_csv( 'dataset/zomato_treated_15-04-2024.csv' )
 
 # Because of the modeling and filtering take so long I decided to add the CSV filtered
 
